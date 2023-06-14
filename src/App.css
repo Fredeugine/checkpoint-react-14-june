@@ -17,3 +17,13 @@
 button {
   padding: 5px 10px 5px 10px;
 }
+.blue{
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+.red{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
